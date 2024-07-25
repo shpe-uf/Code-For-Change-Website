@@ -1,0 +1,33 @@
+.ui.card {
+    box-shadow: none;
+    background-color: transparent !important;
+    transition: background-color 0.3s ease; 
+    border: 3px white !important;
+    height: 50%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.ui.card:hover {
+    background-color: rgb(14, 34, 84) !important; 
+    box-shadow: none !important;
+}
+.ui.card>.content>a.header{
+    color: white;
+    transition: color 0.3s ease;
+    background-color: transparent !important;
+}
+
+.ui.card > .content > a.header:hover {
+    color: orange;
+}
+
+
+.tracks{
+    border-radius: 5px;
+    margin-top: 50px;
+    text-align: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}

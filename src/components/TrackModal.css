@@ -1,0 +1,33 @@
+/* TrackModal.css */
+.custom-close-button {
+  position: absolute;
+  top: 5px;
+  right: 20px;
+  background: none;
+  border: none;
+  color: red;
+  font-size: 40px;
+  cursor: pointer;
+  z-index: 1000;
+}
+
+.custom-close-button:hover {
+  color: darkred;
+}
+
+.title{
+  color:orange !important;
+  text-align: 'center';
+  font-size: 30px !important;
+  font-style: italic;
+  font-weight: 700;
+  line-height: normal;
+}
+.desc{
+  color: black;
+  text-align: 'justify';
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: normal;
+}

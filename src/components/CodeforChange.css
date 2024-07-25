@@ -1,0 +1,39 @@
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+}
+
+.C4C-text{
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+.c4c-title{ 
+    color: white;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.c4c-subtitle{ 
+    color: white;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.c4c-para{
+    color: white;
+    margin-top: 30px;
+    font-size: 25px;
+    font-weight: '400';
+    word-wrap: 'break-word'
+}
+
+
+
