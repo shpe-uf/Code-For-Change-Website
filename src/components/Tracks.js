@@ -21,22 +21,22 @@ function Tracks(){
     const tracks = [
         {
             title: "Education",
-            description: "Lorem Ipsum"
+            description: "More information about the tracks to be released!"
 
         },
         {
             title: "Health",
-            description: "Lorem Ipsum"
+            description: "More information about the tracks to be released!"
             
         },
         {
             title: "Environment",
-            description: "Lorem Ipsum"
+            description: "More information about the tracks to be released!"
             
         },
         {
             title: "Sponsor Challenge",
-            description: "Lorem Ipsum"
+            description: "Want to sponsor a challenge? Get in contact with us: code4change.shpeuf@gmail.com"
             
         }
     ]
@@ -62,7 +62,7 @@ function Tracks(){
                     TRACKS
              </h2>
              <h3 className="c4c-subtitle">
-                    The winning team of each category will receive $100!
+                    The winning team of each category will receive a money prize!
                 </h3>
                 <Swiper
                 modules={[Navigation, Pagination, Scrollbar]}

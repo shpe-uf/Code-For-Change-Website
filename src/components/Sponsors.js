@@ -27,7 +27,7 @@ function Sponsors(){
                     </GridColumn>
                 </GridRow>
             </Grid>*/}
-            <div  class="ui orange button">Sponsor us!</div>
+            <a  class="ui orange button" href="mailto:code4change.shpeuf@gmail.com">Sponsor us!</a>
             
         </div>
         <div>
