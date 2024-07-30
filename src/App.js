@@ -7,7 +7,7 @@ import Tracks from './components/Tracks';
 import QnA from './components/QnA';
 import Sponsors from './components/Sponsors';
 
-import background from './components/media/bg.png';
+
 
 function App() {
   return (
