@@ -1,7 +1,6 @@
 import React from "react";
 import {
   Container,
-  Card,
 } from "semantic-ui-react";
 // Import Swiper React components
 

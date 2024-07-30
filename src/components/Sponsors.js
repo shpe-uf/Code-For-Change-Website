@@ -1,11 +1,8 @@
 import React from "react";
-import { GridRow, GridColumn, Grid, Image, Button } from 'semantic-ui-react'
+
 
 
 import "./sponsors.css"
-import google from "./media/image 2.png"
-import apple from "./media/image 3.png"
-import netflix from "./media/image 4.png"
 
 
 function Sponsors(){

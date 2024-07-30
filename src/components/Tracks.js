@@ -1,8 +1,6 @@
 import React from "react";
 import { useState } from "react";
-import {
-    Card
-  } from "semantic-ui-react";
+
 
 // Import Swiper styles
 import "swiper/css";

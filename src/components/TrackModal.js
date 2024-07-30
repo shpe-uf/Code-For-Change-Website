@@ -1,5 +1,5 @@
 import React from 'react';
-import { Modal, Button, Grid } from 'semantic-ui-react';
+import { Modal } from 'semantic-ui-react';
 import "./TrackModal.css"
 
 const TrackModal = ({ open, onClose, title, description }) => {
