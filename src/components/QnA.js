@@ -62,10 +62,6 @@ export default function QnA() {
         You can be on teams of up to 4. We have a team building channel in our discord if you're looking to find new team members!
         </AccordionItem>
 
-        <AccordionItem header="When can we start working on our project? Can I work on a previous project?" >
-          You cannot start until after opening ceremony. You may come up with ideas, but are not allowed to start coding. You cannot work on a previous project, but can use frameworks if you clearly credit them in your readme and differentiate what you made vs what you used
-        </AccordionItem>
-
         <AccordionItem header="Are there travel reimbursements?" >
           We are not able to provide travel reimbursements at this time.
         </AccordionItem>
