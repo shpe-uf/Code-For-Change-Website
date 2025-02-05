@@ -43,15 +43,15 @@ export default function QnA() {
         </AccordionItem>
 
         <AccordionItem header="When do applications open?" >
-          Official applications will open December 2024. For right now feel free to fill out our pre-registration form!
+          Regsistration is now open until February 19th!
         </AccordionItem>
 
         <AccordionItem header="Are you sending out acceptances? Is there a deadline to apply? Is there a waitlist?" >
-        We will send out acceptances 10 days before the event. If you need to know before then to book travel, please reach out to our team for an early review. Applications will be closing once we reach the maximum amount of hackers we can support, but we will have a waitlist the day of the event for any local hackers who want to fill the spots of any accepted hackers who do not end up attending.
+        We will send out acceptances 5 days before the event.  Applications will be closing on February 19th, but we will have a waitlist the day of the event for any local hackers who want to fill the spots of any accepted hackers who do not end up attending.
         </AccordionItem>
 
         <AccordionItem header="Where is the event?">
-          Code for Change is hosted at the University of Florida! More information regarding specific building location will be released as the event date gets closer.
+          Code for Change is hosted at the University of Florida! The event will be hosted in Newell Hall while workshops will be hosted in Turlington Hall.
         </AccordionItem>
 
         <AccordionItem header="Who can attend?">
