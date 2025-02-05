@@ -28,8 +28,8 @@ function MenuBar() {
             Sponsors
           </a>
           <div className="item">
-            <a className="ui orange button" href="https://forms.gle/gcHJ6QYwBiME8ZBh8" target="_blank" rel="noopener noreferrer">
-              Pre-register
+            <a className="ui orange button" href="https://forms.gle/13UjMQfunf2TaQy2A" target="_blank" rel="noopener noreferrer">
+              Register
             </a>
           </div>
         </div>
