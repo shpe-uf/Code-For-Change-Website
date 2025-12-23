@@ -43,11 +43,11 @@ export default function QnA() {
         </AccordionItem>
 
         <AccordionItem header="When do applications open?" >
-          Regsistration is now open until February 19th!
+          Regsistration is now open until mid-January!
         </AccordionItem>
 
         <AccordionItem header="Are you sending out acceptances? Is there a deadline to apply? Is there a waitlist?" >
-        We will send out acceptances 5 days before the event.  Applications will be closing on February 19th, but we will have a waitlist the day of the event for any local hackers who want to fill the spots of any accepted hackers who do not end up attending.
+        We will send out acceptances 5 days before the event.  Applications will be closing in mid-January, but we will have a waitlist the day of the event for any local hackers who want to fill the spots of any accepted hackers who do not end up attending.
         </AccordionItem>
 
         <AccordionItem header="Where is the event?">
@@ -59,7 +59,7 @@ export default function QnA() {
         </AccordionItem>
 
         <AccordionItem header="What is the team size limit?" >
-        You can be on teams of up to 4. We have a team building channel in our discord if you're looking to find new team members!
+        You can be on teams of up to 4. We have a team building channel in our Discord if you're looking to find new team members!
         </AccordionItem>
 
         <AccordionItem header="Are there travel reimbursements?" >
@@ -67,7 +67,7 @@ export default function QnA() {
         </AccordionItem>
 
         <AccordionItem header="When can we start working on our project? Can I work on a previous project?" >
-        You cannot start until after opening ceremony. You may come up with ideas, but are not allowed to start coding. You cannot work on a previous project, but can use frameworks if you clearly credit them in your readme and differentiate what you made vs what you used
+        You cannot start until after the Opening Ceremony. You may come up with ideas, but are not allowed to start coding. You cannot work on a previous project, but can use frameworks if you clearly credit them in your README file and differentiate what you made versus what you used.
         </AccordionItem>
 
         <AccordionItem header="What kind of activities will there be?" >

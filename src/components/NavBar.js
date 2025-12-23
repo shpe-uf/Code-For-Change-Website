@@ -28,7 +28,7 @@ function MenuBar() {
             Sponsors
           </a>
           <div className="item">
-            <a className="ui orange button" href="https://forms.gle/13UjMQfunf2TaQy2A" target="_blank" rel="noopener noreferrer">
+            <a className="ui orange button" href="https://events.mlh.io/events/13394-code-for-change" target="_blank" rel="noopener noreferrer">
               Register
             </a>
           </div>

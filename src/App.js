@@ -6,6 +6,7 @@ import CodeForChange from './components/CodeforChange';
 import Tracks from './components/Tracks';
 import QnA from './components/QnA';
 import Sponsors from './components/Sponsors';
+import MLHLink from './components/MLHLink';
 
 
 
@@ -17,6 +18,7 @@ function App() {
       <div id="tracks"><Tracks /></div>
       <div id="qna"><QnA /></div>
       <div id="sponsors"><Sponsors /></div>
+      <div id="mlhlink"><MLHLink /></div>
     </div>
   );
 }
