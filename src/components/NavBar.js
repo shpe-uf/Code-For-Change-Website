@@ -1,6 +1,7 @@
 import React from 'react';
 import { Menu} from 'semantic-ui-react';
 import './NavBar.css';
+import { FaDiscord, FaInstagram, FaLink} from 'react-icons/fa';
 
 function MenuBar() {
   const scrollToSection = (id) => {
@@ -15,6 +16,15 @@ function MenuBar() {
       {/* PC View */}
       <Menu>
         <div className="ui huge text right inverted menu" style={{ paddingRight: 30 }}>
+        <a href="https://discord.gg/sEYsc4UGet" target="_blank" rel="noopener noreferrer">
+            <FaDiscord className="nav-icon" size={30} style={{color: 'FFFFFF', marginTop: '10px' }}  />
+          </a>
+          <a href="https://www.instagram.com/shpe.code4change/" target="_blank" rel="noopener noreferrer">
+            <FaInstagram className="nav-icon" size={30} style={{color: 'FFFFFF', marginTop: '10px' }}  />
+          </a>
+          <a href="https://linktr.ee/shpe.code4change" target="_blank" rel="noopener noreferrer">
+            <FaLink className="nav-icon" size={30} style={{color: 'FFFFFF', marginTop: '10px' }}  />
+          </a>
           <a className="item" onClick={() => scrollToSection('about')}>
             About
           </a>

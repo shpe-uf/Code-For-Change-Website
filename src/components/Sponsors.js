@@ -1,10 +1,10 @@
 import React from "react";
 import {Grid, GridRow, GridColumn, Image} from 'semantic-ui-react';
-import PureButtons from "./media/PureButtons.png"
-import BoFA from "./media/BoFA.png"
-import FCI from "./media/FCI.jpeg"
+import PureButtons from "./media/PureButtons.png";
+import BoFA from "./media/BoFA.png";
+import FCI from "./media/FCI.jpeg";
 
-import "./sponsors.css"
+import "./sponsors.css";
 
 
 function Sponsors(){

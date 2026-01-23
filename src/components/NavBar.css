@@ -4,6 +4,9 @@
   box-shadow: none;
   background-color: transparent;
 
+ .nav-icon {
+  margin-right: 10px;
+ }  
 }
 
 
